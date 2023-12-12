@@ -35,4 +35,4 @@ Contributions and improvements from the community are highly encouraged. If you 
 
 Please use these scraping tools responsibly and ensure compliance with the terms of use and legal regulations of the websites you are scraping. Respect the website's terms of service and robots.txt file.
 
-This Web Scraper Collection aims to facilitate data extraction tasks by providing a selection of pre-built scrapers while promoting ethical and responsible web scraping practices.
+This Web Scraper Collection aims to facilitate data extraction tasks by providing a selection of pre-built scrapers while promoting ethical and responsible web scraping practices..
