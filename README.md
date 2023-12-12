@@ -4,7 +4,7 @@
 
 The Web Scraper Repository is a comprehensive collection of web scraping scripts and tools designed to extract data from a variety of websites and online sources. It offers web scraping solutions to assist in data extraction tasks.
 
-## Key Featuress
+## Key Features
 
 - **Diverse Collection**: Includes a wide variety of web scraping scripts tailored for different use cases.
 - **User-Friendly Documentation**: Each scraping script is accompanied by comprehensive README files to guide users on how to use the scraper effectively.
