@@ -1,38 +1,39 @@
-# Web Scraper Repository
+# Web-Scraper
 
 ## Description
 
-The Web Scraper Repository is a comprehensive collection of web scraping scripts and tools designed to extract data from a variety of websites and online sources. It offers web scraping solutions to assist in data extraction tasks.
+The `web-scraper` repository contains a collection of web scraping scripts, each tailored for a specific website. These scripts are part of my learning journey in web scraping and may not be fully mature yet. They serve as a great resource for beginners in this field.
 
-## Key Features
+Each directory within the repository focuses on a website-specific scraping script. You'll find a `requirement.txt` file in each directory, listing all the dependencies needed to run the scripts.
 
-- **Diverse Collection**: Includes a wide variety of web scraping scripts tailored for different use cases.
-- **User-Friendly Documentation**: Each scraping script is accompanied by comprehensive README files to guide users on how to use the scraper effectively.
-- **Clear Licensing**: All code is provided under open-source licenses for transparency and collaboration.
-- **Easy Dependency Management**: Requirements.txt files are included to simplify the installation of necessary dependencies.
+## Installation
 
-## Directory Structure
+### Prerequisites
 
-- `CASES/`: Contains directories for individual web scraping cases.
-  - `News Website Scraper/`: A directory for web scraping scripts related to news websites.
-  - `IG Scraper/`: A directory for web scraping scripts related to Instagram data extraction.
+Ensure you have Python installed on your computer. Then, install the dependencies for each script using the following command:
 
-## Usage
+pip install -r requirement.txt
 
-1. Explore the `CASES/` directory to find specific web scraping scripts tailored for different use cases.
-2. Navigate to the respective case directory and follow the README instructions to use the scraper effectively.
-3. Ensure you have the necessary dependencies installed by referring to the `requirements.txt` file in each case directory.
+### Running the Scripts
+
+After installing the necessary dependencies, you can run the scraping scripts to fetch data from the specified websites. Typically, you would run a script like this:
+
+python scraper_script.py
+
+Replace `scraper_script.py` with the actual script file you wish to run.
+
+## Contribution
+
+As a learning project, contributions from other developers are highly welcome. If you have any suggestions for improvement or want to add new scraping scripts, feel free to submit a pull request.
+
+## Compliance and Legal Disclaimer
+
+Web scraping must be performed responsibly and in compliance with all applicable laws and website terms of service. This repository is for educational purposes only, and users are responsible for ensuring they comply with the legalities surrounding web scraping in their respective jurisdictions.
 
 ## License
 
-This project is open-source and is provided under the MIT License. Please refer to the LICENSE file for details regarding the terms of use and distribution.
+All content in this repository is licensed under the MIT License. For more details, see the LICENSE file.
 
-## Contributions
+## Contact
 
-Contributions and improvements from the community are highly encouraged. If you have enhancements or additional scraping scripts to share, please consider contributing to this repository. Follow the standard GitHub Fork and Pull Request workflow for contributions.
-
-## Disclaimer
-
-Please use these scraping tools responsibly and ensure compliance with the terms of use and legal regulations of the websites you are scraping. Respect the website's terms of service and robots.txt file.
-
-This Web Scraper Collection aims to facilitate data extraction tasks by providing a selection of pre-built scrapers while promoting ethical and responsible web scraping practices.
+For any questions or suggestions, please feel free to contact me through [Github Issues](https://github.com/YK-Lu/web-scraper/issues).
