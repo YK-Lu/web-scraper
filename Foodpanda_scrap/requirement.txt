@@ -3,5 +3,4 @@ fake_useragent
 pandas
 requests
 pickle
-pandas
 lxml
